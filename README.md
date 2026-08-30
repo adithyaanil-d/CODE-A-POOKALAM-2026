@@ -4,97 +4,53 @@ Adithya's Pookalam 2026🌸
 - **Name:** ADITHYA D
 - **Institution/Company:** LBS INSTITUTE OF TECHNOLOGY FOR WOMEN,TVPM
 - **GitHub:** https://github.com/adithyaanil-d
-- **Programming Language Used:** [Language]
+- **Programming Language Used:** Python
 
 ## 🎨 My Pookalam
 
 ### Description
-[Write a brief description of your Pookalam design, inspiration, or the approach you took]
+
+This Pookalam is a digital representation of the traditional Kerala Onam Pookalam, created entirely using Python and Turtle Graphics.
+
+The design is inspired by traditional floral patterns, using radial symmetry, concentric layers, pointed petals, triangles, geometric patterns, and decorative dots.
+
+Instead of using real flower petals, mathematical calculations are used to position and arrange each element symmetrically around the center. The colors include red, rose, orange, yellow, white, and green to give the design a traditional and vibrant Onam feel.
 
 ### Preview
+
 ![My Pookalam](output/pookalam-preview.png)
-*Add more images if you have multiple views or animations*
 
 ### Features
-- [Feature 1 - e.g., "Colorful geometric patterns"]
-- [Feature 2 - e.g., "Interactive elements"]
+
+- Traditional Onam-inspired Pookalam design
+- Created completely using Python Turtle Graphics
+- Symmetrical floral and geometric patterns
+- Multiple layers of petals, triangles, circles, and decorative dots
+- Vibrant combination of red, rose, orange, yellow, white, and green
+- Mathematical calculations used for precise positioning
+- No external images used to create the Pookalam
 
 ## 🚀 How to Run
 
 ### Prerequisites
-[List any requirements, libraries, or software needed]
-```bash
-# Example for Python
-pip install matplotlib turtle numpy
-```
+
+You need:
+
+- Python 3.x
+- VS Code or any Python-compatible editor
+
+The project uses Python's built-in libraries:
+
+- `turtle`
+- `math`
+
+No additional packages need to be installed.
 
 ### Running the Code
+
+Open the project folder in VS Code.
+
+Run the following command in the terminal:
+
 ```bash
-# Add your specific run commands here
 python pookalam.py
-# or
-open index.html
-# or your specific instructions
-```
-
-## 📁 File Structure
-```
-Code-a-Pookalam-2026/
-├── README.md (this file)
-├── pookalam.py (or your main file)
-└── requirements.txt (if applicable)
-```
-
-## 🎊 Happy Onam! 🎊
-*Submitted for Code-a-Pookalam 2026 by TinkerHub RIT*
-```
-
----
-
-## 💡 Tips for Participants
-
-- **Get Creative**: Think beyond traditional Pookalam patterns - add animations, interactivity, or 3D effects!
-- **Document Well**: A good README makes your submission stand out
-- **Include Visuals**: Screenshots, GIFs, or videos make your work more engaging
-- **Share Your Process**: Explain your approach and what you learned
-- **Test Your Code**: Make sure others can run your code with clear instructions
-
----
-
-## 📚 Resources & Inspiration
-
-### Programming Resources
-- **Python Graphics**: Turtle, Matplotlib, Pygame, PIL etc
-
-### Pookalam Design Ideas
-- Traditional geometric patterns
-- Floral motifs and mandala designs
-- Colorful concentric circles
-- Interactive/animated elements
-- 3D rendered Pookalams
-
----
-
-## 🏢 Organizer Information
-
-**Event Organized By:** TinkerHub RIT  
-**Contact:** tinkerhub@rit.ac.in
-**Event Date:**August 2026
-**Deadline:** August 30, 2026  
-
-### About TinkerHub RIT
-TinkerHub RIT is a community of makers, learners, and innovators at Rajiv Gandhi Institute of Technology. We organize various tech events, workshops, and coding challenges to foster creativity and learning in technology.
-
----
-
-## 🎊 Happy Coding & Happy Onam! 🎊
-
-*May your code bloom as beautifully as a traditional Pookalam!*
-
----
-
-**⭐ Don't forget to star this repository if you enjoyed the challenge!**
-
-### 🔗 Share Your Work
-After completing your submission, share it on social media with:
-**#CodeAPookalam2026 #TinkerHubRIT #Onam2026 #CodingChallenge**
