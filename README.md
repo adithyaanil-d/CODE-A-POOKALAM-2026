@@ -1,79 +1,9 @@
-
-# 🌸 Code-a-Pookalam 2026🌸
-### *Create beautiful digital art through code this Onam season!*
-
----
-
-## 🎨 About the Challenge
-
-Welcome to **Code-a-Pookalam 2026** - a fun coding challenge organized by TinkerHub RIT! 
-
-Pookalam is a traditional floral carpet made during the festival of Onam in Kerala. In this challenge, we're bringing this beautiful tradition into the digital world! Use your creativity and coding skills to create stunning digital Pookalams using any programming language of your choice.
-
-Whether you're a beginner taking your first steps into programming or an experienced developer looking for a creative outlet, this challenge is for everyone! 
-
----
-
-## 🌼How to Participate
-
-Follow these simple steps to join the challenge:
-
-### 1️⃣ Fork this Repository
-Click the **Fork** button at the top right of this repository to create your own copy.
-
-### 2️⃣ Clone Your Fork
-```bash
-git clone https://github.com/[YOUR-USERNAME]/CODE-A-POOKALAM-2026.git
-```
-
-### 3️⃣ Edit This README
-Replace this template README with your own submission details using the format provided below.
-
-### 4️⃣ Add Your Code
-Create your Pookalam using any programming language! Popular choices include:
-- 🐍 Python (with turtle, matplotlib, pygame)
-- 🌐 HTML/CSS/JavaScript
-- ☕ Java
-- 🎯 Processing
-- 🦀 Rust
-- And many more!
-
-### 5️⃣ Commit and Push to Your Fork
-```bash
-git add .
-git commit -m "My Code-a-Pookalam 2026 submission"
-git push origin main
-```
-
-### 6️⃣ Submit Your Repository
-Share your forked repository link with the organizers by **August 30, 2026**!
-
----
-
-## 📋 Rules
-
-1. **🍴 Fork Required**: You must fork this repository to participate
-2. **✏️ Edit README**: Replace this README with your submission details
-3. **💻 Any Language**: Use any programming language you're comfortable with
-4. **🎨 Be Creative**: Let your imagination run wild with colors, patterns, and designs
-5. **⏰ Deadline**: Submit your repository link by * *August 30, 2026, 11:59 PM IST**
-6. **🤝 Be Respectful**: Keep your code clean and family-friendly
-7. **📸 Include Output**: Add screenshots or images of your Pookalam
-8. **✅ Original Work**: Submit only your original code
-
----
-
-## 📝 README Template for Your Submission
-
-**Once you fork this repository, replace this entire README.md with the following format:**
-
-```markdown
-# 🌸 [Your Name]'s Pookalam 2026 🌸
+Adithya's Pookalam 2026🌸
 
 ## 👨‍💻 About Me
-- **Name:** [Your Full Name]
-- **Institution/Company:** [Your School/College/Company]
-- **GitHub:** [@your-username](https://github.com/your-username)
+- **Name:** ADITHYA D
+- **Institution/Company:** LBS INSTITUTE OF TECHNOLOGY FOR WOMEN,TVPM
+- **GitHub:** https://github.com/adithyaanil-d
 - **Programming Language Used:** [Language]
 
 ## 🎨 My Pookalam
