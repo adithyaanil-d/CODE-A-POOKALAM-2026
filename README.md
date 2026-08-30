@@ -17,6 +17,10 @@ The design is inspired by traditional floral patterns, using radial symmetry, co
 
 Instead of using real flower petals, mathematical calculations are used to position and arrange each element symmetrically around the center. The colors include red, rose, orange, yellow, white, and green to give the design a traditional and vibrant Onam feel.
 
+### Preview
+
+![My Pookalam](output/pookalam-preview.png)
+
 ### Features
 
 - Traditional Onam-inspired Pookalam design
