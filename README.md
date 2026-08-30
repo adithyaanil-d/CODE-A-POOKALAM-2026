@@ -1,8 +1,9 @@
-Adithya's Pookalam 2026🌸
+# Adithya's Pookalam 2026 🌸
 
 ## 👨‍💻 About Me
+
 - **Name:** ADITHYA D
-- **Institution/Company:** LBS INSTITUTE OF TECHNOLOGY FOR WOMEN,TVPM
+- **Institution/Company:** LBS INSTITUTE OF TECHNOLOGY FOR WOMEN, TVPM
 - **GitHub:** https://github.com/adithyaanil-d
 - **Programming Language Used:** Python
 
@@ -18,7 +19,7 @@ Instead of using real flower petals, mathematical calculations are used to posit
 
 ### Preview
 
-![My Pookalam] https://drive.google.com/file/d/15FPbFNf0R908nKR2hmvqUeL_NiFjcpUg/view?usp=sharing
+![My Pookalam](output/pookalam-preview.png)
 
 ### Features
 
