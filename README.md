@@ -19,7 +19,7 @@ Instead of using real flower petals, mathematical calculations are used to posit
 
 ### Preview
 
-![My Pookalam](output/pookalam-preview.png)
+![My Pookalam](output.png)
 
 ### Features
 
