@@ -46,12 +46,3 @@ The project uses Python's built-in libraries:
 - `math`
 
 No additional packages need to be installed.
-
-### Running the Code
-
-Open the project folder in VS Code.
-
-Run the following command in the terminal:
-
-```bash
-python pookalam.py
